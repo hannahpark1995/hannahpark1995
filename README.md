@@ -2,13 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBCFE8,50:E9D5FF,100:BAE6FD&height=150&section=header" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" width="88" />
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" width="88" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=32&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=560&height=56&lines=gm+gm+%E2%98%81%EF%B8%8F;onchain+%C3%97+AI+builder;poking+at+blocks+%26+bots;from+Seoul+with+%E2%99%A1" alt="typing" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=32&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=560&height=56&lines=gm+gm+%E2%98%81%EF%B8%8F;onchain+%C3%97+AI+builder;poking+at+blocks+%26+bots;from+Seoul+with+%E2%99%A1" alt="typing" /></p>
 
 <p>
   <img src="https://img.shields.io/badge/mood-curious_&_shipping-FBCFE8?style=for-the-badge&labelColor=FFF5F8&color=FBCFE8" />
-  <img src="https://komarev.com/ghpvc/?username=hannahpark1995&style=for-the-badge&color=E9D5FF&label=visitors" />
 </p>
 
 </div>
