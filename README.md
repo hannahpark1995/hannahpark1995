@@ -17,7 +17,6 @@
 ```ts
 const me = {
   based_in:   "Seoul, KR 🇰🇷",
-  building:   "@ Unit TX",
   obsessed:   ["onchain data", "AI agents", "DeFi", "smart contracts"],
   exploring:  "what happens when agents get wallets 🤖💸",
   ask_me:     ["onchain rabbit holes", "LLM workflows", "the Korean crypto scene"],
