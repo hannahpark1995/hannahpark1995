@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hannah%20Park&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=onchain%20%C3%97%20AI%20builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=520&lines=gm+%F0%9F%8C%85;reading+blocks%2C+prompting+models;building+where+onchain+meets+AI;shipping+from+Seoul+%F0%9F%87%B0%F0%9F%87%B7" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=600&height=60&lines=gm+%F0%9F%8C%85;onchain+%C3%97+AI+builder;reading+blocks%2C+prompting+models;shipping+from+Seoul" alt="typing" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hannahpark1995&style=flat-square&color=7c3aed&label=profile+views" alt="profile views" />
@@ -15,7 +15,7 @@
 ### `$ whoami`
 
 ```ts
-const hannah = {
+const me = {
   based_in:   "Seoul, KR 🇰🇷",
   building:   "@ Unit TX",
   obsessed:   ["onchain data", "AI agents", "DeFi", "smart contracts"],
@@ -57,9 +57,6 @@ const hannah = {
   <img height="165" src="https://streak-stats.demolab.com?user=hannahpark1995&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hannahpark1995&theme=tokyonight" width="100%" />
-</p>
 
 
 ---
@@ -73,7 +70,6 @@ const hannah = {
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
-<a href="https://github.com/hannahpark1995"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <sub>gm, wagmi, and keep building ✨</sub>
 
