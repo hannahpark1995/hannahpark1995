@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="710" viewBox="0 0 1200 710" role="img" aria-labelledby="title desc">
+<title id="title">Hannah's GitHub dashboard</title>
+<desc id="desc">Onchain and AI builder. Public repository statistics, recent public activity and technology interests.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif;fill:#e6edf3}.muted{fill:#8b949e}.blue{fill:#58a6ff}.green{fill:#3fb950}.label{font-size:13px}.body{font-size:16px}.heading{font-size:18px;font-weight:600}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}</style>
+<rect width="1200" height="710" rx="20" fill="#0d1117"/>
+<path d="M320 38V654M750 38V654" stroke="#21262d"/>
+
+<text x="36" y="65" class="label muted mono" >HANNAH / BUILDER</text>
+<circle cx="83" cy="132" r="39" fill="#12241b" stroke="#238636"/>
+<text x="60" y="145" class="heading green" style="font-size:34px">hp</text>
+<text x="36" y="213" class="heading" >hannahpark1995</text>
+<text x="36" y="243" class="body green" >Onchain × AI</text>
+<text x="36" y="290" class="body muted" >Exploring the intersection of</text>
+<text x="36" y="315" class="body muted" >wallets, data, and agents.</text>
+<text x="36" y="374" class="heading blue" >Currently exploring</text>
+<text x="36" y="410" class="label muted" >Agents with their own wallets</text>
+<text x="36" y="440" class="label muted" >Stories hidden in onchain data</text>
+<text x="36" y="470" class="label muted" >Tools that make crypto simpler</text>
+<text x="36" y="538" class="heading blue" >Build. Learn. Repeat.</text>
+<text x="36" y="573" class="label muted" >Small tools. Open experiments.</text>
+<text x="36" y="597" class="label muted" >One commit at a time.</text>
+<text x="350" y="65" class="heading blue" >GitHub overview</text>
+<text x="350" y="118" class="heading" style="font-size:32px">3</text>
+<text x="350" y="143" class="label muted" >public repositories</text>
+<text x="550" y="118" class="heading" style="font-size:32px">0</text>
+<text x="550" y="143" class="label muted" >repository stars</text>
+<text x="350" y="200" class="heading" style="font-size:32px">0</text>
+<text x="350" y="225" class="label muted" >followers</text>
+<text x="550" y="200" class="heading" style="font-size:32px">0</text>
+<text x="550" y="225" class="label muted" >repository forks</text>
+<text x="350" y="295" class="heading blue" >Recent public activity</text>
+<text x="350" y="323" class="label muted" >Public events by day · last 28 days</text>
+<rect x="350" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="363" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="376" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="389" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="402" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="415" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="428" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="441" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="454" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="467" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="480" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="493" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="506" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="519" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="532" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="545" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="558" y="350.0" width="9" height="74.0" rx="3" fill="#3fb950"/>
+<rect x="571" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="584" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="597" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="610" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="623" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="636" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="649" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="662" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="675" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="688" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<rect x="701" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
+<text x="350" y="448" class="label muted" >Oct 17</text>
+<text x="655" y="448" class="label muted" >Nov 13</text>
+<text x="350" y="482" class="label green" >1 public events in this window</text>
+<text x="350" y="507" class="label muted" >Events include pushes, issues, and pull requests.</text>
+<text x="350" y="530" class="label muted" >Not the GitHub contributions calendar.</text>
+<text x="350" y="588" class="heading blue" >Languages in public repositories</text>
+<text x="350" y="621" class="label muted" >No language data available yet.</text>
+<text x="780" y="65" class="heading blue" >Interests &amp; toolbox</text>
+<text x="780" y="99" class="label muted" >Technologies I’m exploring</text>
+<rect x="780" y="122" width="97" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="792" y="142" class="label" >TypeScript</text>
+<rect x="887" y="122" width="79" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="899" y="142" class="label" >Python</text>
+<rect x="976" y="122" width="83" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="988" y="142" class="label" >Solidity</text>
+<rect x="780" y="164" width="87" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="792" y="184" class="label" >Next.js</text>
+<rect x="877" y="164" width="95" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="889" y="184" class="label" >Tailwind</text>
+<rect x="982" y="164" width="98" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="994" y="184" class="label" >Ethereum</text>
+<rect x="780" y="206" width="65" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="792" y="226" class="label" >Base</text>
+<rect x="855" y="206" width="79" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="867" y="226" class="label" >Solana</text>
+<rect x="944" y="206" width="104" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="956" y="226" class="label" >AI agents</text>
+<text x="780" y="295" class="heading blue" >Public projects</text>
+<a href="https://github.com/hannahpark1995/hyperframes">
+<text x="780" y="333" class="body blue" >hyperframes</text>
+</a>
+<text x="780" y="357" class="label muted" >Write HTML. Render video. Built for agents.</text>
+<text x="780" y="377" class="label green" >Repository</text>
+<a href="https://github.com/hannahpark1995/research">
+<text x="780" y="421" class="body blue" >research</text>
+</a>
+<text x="780" y="445" class="label muted" >An open experiment on GitHub.</text>
+<text x="780" y="465" class="label green" >Repository</text>
+<a href="https://github.com/hannahpark1995/architectpark">
+<text x="780" y="509" class="body blue" >architectpark</text>
+</a>
+<text x="780" y="533" class="label muted" >new new app</text>
+<text x="780" y="553" class="label green" >Repository</text>
+<text x="780" y="621" class="body green mono" >gm. keep building.</text>
+<path d="M36 654H1164" stroke="#21262d"/>
+<text x="36" y="684" class="label muted mono" >PUBLIC DATA ONLY / GITHUB API</text>
+<text x="780" y="684" class="label muted" >Updated 2026-11-13 01:23 UTC</text>
+</svg>
