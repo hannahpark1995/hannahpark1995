@@ -20,7 +20,7 @@
 <text x="36" y="573" class="label muted" >Small tools. Open experiments.</text>
 <text x="36" y="597" class="label muted" >One commit at a time.</text>
 <text x="350" y="65" class="heading blue" >GitHub overview</text>
-<text x="350" y="118" class="heading" style="font-size:32px">3</text>
+<text x="350" y="118" class="heading" style="font-size:32px">4</text>
 <text x="350" y="143" class="label muted" >public repositories</text>
 <text x="550" y="118" class="heading" style="font-size:32px">0</text>
 <text x="550" y="143" class="label muted" >repository stars</text>
@@ -60,11 +60,11 @@
 <rect x="701" y="420.0" width="9" height="4.0" rx="3" fill="#21262d"/>
 <text x="350" y="448" class="label muted" >Oct 17</text>
 <text x="655" y="448" class="label muted" >Nov 13</text>
-<text x="350" y="482" class="label green" >1 public events in this window</text>
+<text x="350" y="482" class="label green" >6 public events in this window</text>
 <text x="350" y="507" class="label muted" >Events include pushes, issues, and pull requests.</text>
 <text x="350" y="530" class="label muted" >Not the GitHub contributions calendar.</text>
 <text x="350" y="588" class="heading blue" >Languages in public repositories</text>
-<text x="350" y="621" class="label muted" >No language data available yet.</text>
+<text x="350" y="621" class="label muted" >Python (1)</text>
 <text x="780" y="65" class="heading blue" >Interests &amp; toolbox</text>
 <text x="780" y="99" class="label muted" >Technologies I’m exploring</text>
 <rect x="780" y="122" width="97" height="30" rx="6" fill="#161b22" stroke="#30363d"/>
@@ -104,5 +104,5 @@
 <text x="780" y="621" class="body green mono" >gm. keep building.</text>
 <path d="M36 654H1164" stroke="#21262d"/>
 <text x="36" y="684" class="label muted mono" >PUBLIC DATA ONLY / GITHUB API</text>
-<text x="780" y="684" class="label muted" >Updated 2026-11-13 01:23 UTC</text>
+<text x="780" y="684" class="label muted" >Updated 2026-11-13 01:24 UTC</text>
 </svg>
