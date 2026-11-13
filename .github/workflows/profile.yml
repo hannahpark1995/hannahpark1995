@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
     paths:
+      - assets/**
       - scripts/update_profile.py
       - .github/workflows/profile.yml
 permissions:

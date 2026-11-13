@@ -93,7 +93,7 @@ image = base64.b64encode((ROOT/'assets/avatar.png').read_bytes()).decode()
 parts.append(f'<image x="40" y="51" width="188" height="188" clip-path="url(#avatar)" xlink:href="data:image/png;base64,{image}"/>')
 parts.append('<circle cx="134" cy="145" r="95" fill="none" stroke="#30363d"/>')
 text(38,285,'luckyzinzin','heading','style="font-size:28px"')
-text(38,314,'Onchain × AI builder','body muted')
+text(38,314,'Building useful things.','body muted')
 text(38,360,'gm. keep building.','body green')
 for y,line in [(398,'Agents with their own wallets.'),(422,'Stories hidden in onchain data.'),(446,'Tools that make crypto simpler.')]: text(38,y,line,'label muted')
 text(38,505,'CURRENTLY EXPLORING','small muted')
@@ -129,9 +129,25 @@ for i,(name,value) in enumerate(languages.most_common(4)):
 if not languages: text(515,459,'No language data yet','small muted')
 text(305,577,f'{len(commits)} authored commits sampled · last 90 days','small muted')
 section(305,616,'⌘ Technologies I’m exploring')
-for i,(name,color) in enumerate([('TS','#3178c6'),('PY','#3572a5'),('SOL','#AA6746'),('Next','#30363d'),('ETH','#627eea'),('Base','#0052ff'),('AI','#238636')]):
-    rect(305+i*55,635,44,30,color,6)
-    text(327+i*55,655,name,'label','text-anchor="middle"')
+# Inline vector logos remain visible when GitHub displays the dashboard as an image.
+icons = [('typescript','TypeScript','#3178c6'), ('python','Python','#ffd343'),
+         ('solidity','Solidity','#a8a8a8'), ('nextdotjs','Next.js','#ffffff'),
+         ('ethereum','Ethereum','#8c9eff'), ('base','Base','#0052ff'),
+         ('agents','AI agents','#3fb950')]
+for i,(slug,name,color) in enumerate(icons):
+    x = 305+i*55
+    rect(x,634,44,33,'#161b22',6)
+    parts.append(f'<g><title>{name}</title>')
+    if slug == 'base':
+        parts.append(f'<circle cx="{x+22}" cy="650" r="12" fill="{color}"/><path d="M{x+10} 650h19" stroke="white" stroke-width="2"/>')
+    elif slug == 'agents':
+        parts.append(f'<g transform="translate({x+10},638)" fill="none" stroke="{color}" stroke-width="1.7"><rect x="1" y="5" width="22" height="17" rx="5"/><path d="M12 5V1M8 17h8M-2 10v7M26 10v7"/><circle cx="7" cy="11" r="1"/><circle cx="17" cy="11" r="1"/></g>')
+    else:
+        svg = (ROOT/'assets/icons'/f'{slug}.svg').read_text()
+        content = svg[svg.index('>')+1:svg.rindex('</svg>')]
+        parts.append(f'<g transform="translate({x+10},638)" fill="{color}">{content}</g>')
+    parts.append('</g>')
+    text(x+22,679,name,'small muted','text-anchor="middle" style="font-size:9px"')
 section(750,57,'▦ Contributions calendar')
 text(750,84,'Real GitHub contributions · last 52 weeks','label muted')
 # Isometric columns: one cell per day, height proportional to real contributions.
